@@ -19,8 +19,8 @@ This is project to explore the world of microcontrollers
 
 ## Current projects
 
-1. Arduino Cpp - [binaryCounter.cpp](./arduino/cpp/binaryCounter.cpp)
-2. Arduino Python - [lightFading.py](./arduino/python/lightFading.py)
+1.  Arduino Cpp - [binaryCounter.cpp](./arduino/cpp/binaryCounter.cpp)
+2.  Arduino Python - [lightFading.py](./arduino/python/lightFading.py)
 
 ## Buy me a coffee
 
